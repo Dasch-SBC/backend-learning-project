@@ -131,4 +131,4 @@ This repository will continue to grow as I learn and build more projects.
 
 ---
 
-Made y **Dasch-SBC**
+Made by **Dasch-SBC**
