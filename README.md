@@ -27,6 +27,7 @@ The goal of this repository is to document my learning process, store practice p
 - [x] Routing and Multi-Page Applications
 - [x] HTML Templates with Jinja2
 - [x] SQLite Database
+- [x] Add User Form with SQLite Integration
 - [x] Displaying Database Data in the Browser
 - [x] Git & GitHub Setup
 ---
@@ -40,6 +41,7 @@ backend-learning-project/
 ├── 02-api-json/
 ├── 03-routing/
 ├── 04-sql-lite/
+├── 05-add-user-form/
 │
 ├── README.md
 └── .gitignore
@@ -74,6 +76,14 @@ Learning objectives:
 - Creating tables
 - Inserting data
 - Displaying data in the browser
+
+## 05 - Add User Form
+Learning objectives:
+- Creating HTML forms
+- Handling POST requests
+- Inserting data into SQLite
+- Redirecting users after submission
+- Displaying dynamic data with Jinja2
 
 ---
 
