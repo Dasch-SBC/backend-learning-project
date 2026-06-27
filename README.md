@@ -18,8 +18,6 @@ The goal of this repository is to document my learning process, store practice p
 
 ---
 
-## 📚 Learning Roadmap
-
 ### ✅ Completed
 
 - [x] Hello World with Flask
@@ -28,6 +26,11 @@ The goal of this repository is to document my learning process, store practice p
 - [x] HTML Templates with Jinja2
 - [x] SQLite Database
 - [x] Add User Form with SQLite Integration
+- [x] Simple Login System
+- [x] Session Management
+- [x] User Authentication Basics
+- [x] Logout Functionality
+- [x] Protected Routes
 - [x] Displaying Database Data in the Browser
 - [x] Git & GitHub Setup
 ---
@@ -42,6 +45,7 @@ backend-learning-project/
 ├── 03-routing/
 ├── 04-sql-lite/
 ├── 05-add-user-form/
+├── 06-login-system/ 
 │
 ├── README.md
 └── .gitignore
@@ -84,6 +88,16 @@ Learning objectives:
 - Inserting data into SQLite
 - Redirecting users after submission
 - Displaying dynamic data with Jinja2
+
+## 06 - Login System
+
+Learning objectives:
+- Creating a login form
+- Handling user authentication
+- Working with Flask sessions
+- Creating protected routes
+- Implementing logout functionality
+- Understanding the basics of authentication systems
 
 ---
 
@@ -134,7 +148,7 @@ This repository is not only about writing code but also about documenting my jou
 Backend Development Journey:
 
 ```text
-████████░░░░░░░░░░░░ 40%
+██████████░░░░░░░░░░ 50%
 ```
 
 This repository will continue to grow as I learn and build more projects.

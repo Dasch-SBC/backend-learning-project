@@ -2,4 +2,4 @@ venv/
 __pycache__/
 *.pyc
 *.db
-database
+04-sql-lite/database
