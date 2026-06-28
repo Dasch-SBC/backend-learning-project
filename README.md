@@ -10,8 +10,9 @@ The goal of this repository is to document my learning process, store practice p
 
 - Python 3
 - Flask
-- SQLite
+- SQLite3
 - HTML
+- Jinja2
 - Git & GitHub
 - Ubuntu (WSL)
 - VS Code Remote WSL
@@ -29,10 +30,12 @@ The goal of this repository is to document my learning process, store practice p
 - [x] Simple Login System
 - [x] Session Management
 - [x] User Authentication Basics
+- [x] Protected Dashboard Routes
 - [x] Logout Functionality
 - [x] Protected Routes
 - [x] Displaying Database Data in the Browser
 - [x] Git & GitHub Setup
+
 ---
 
 # 📁 Project Structure
@@ -46,6 +49,7 @@ backend-learning-project/
 ├── 04-sql-lite/
 ├── 05-add-user-form/
 ├── 06-login-system/ 
+├── 07-login-with-sqlite/
 │
 ├── README.md
 └── .gitignore
@@ -98,6 +102,14 @@ Learning objectives:
 - Creating protected routes
 - Implementing logout functionality
 - Understanding the basics of authentication systems
+
+### ✅ 07 - Login System with SQLite
+- Implemented a simple authentication system.
+- Created login and logout functionality.
+- Used Flask sessions to maintain user state.
+- Protected dashboard routes from unauthorized access.
+- Displayed information about registered users.
+
 
 ---
 
