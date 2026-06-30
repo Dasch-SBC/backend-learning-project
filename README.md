@@ -16,6 +16,8 @@ The goal of this repository is to document my learning process, store practice p
 - Git & GitHub
 - Ubuntu (WSL)
 - VS Code Remote WSL
+- REST API
+- JSON
 
 ---
 
@@ -34,6 +36,7 @@ The goal of this repository is to document my learning process, store practice p
 - [x] Logout Functionality
 - [x] Protected Routes
 - [x] Displaying Database Data in the Browser
+- [x] REST API with SQLite Database (CRUD)
 - [x] Git & GitHub Setup
 
 ---
@@ -50,6 +53,7 @@ backend-learning-project/
 ├── 05-add-user-form/
 ├── 06-login-system/ 
 ├── 07-login-with-sqlite/
+├── 08-rest-api-db/
 │
 ├── README.md
 └── .gitignore
@@ -110,7 +114,27 @@ Learning objectives:
 - Protected dashboard routes from unauthorized access.
 - Displayed information about registered users.
 
+## 08 - REST API with SQLite
+Building a complete CRUD API.
 
+Features:
+- Get all users
+- Get user by ID
+- Create user
+- Update user
+- Delete user
+- JSON responses
+- SQLite database integration
+
+Endpoints:
+
+```text
+GET     /api/users
+GET     /api/users/<id>
+POST    /api/users
+PUT     /api/users/<id>
+DELETE  /api/users/<id>
+```
 ---
 
 # 💻 Getting Started
