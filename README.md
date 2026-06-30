@@ -107,7 +107,7 @@ Learning objectives:
 - Implementing logout functionality
 - Understanding the basics of authentication systems
 
-### ✅ 07 - Login System with SQLite
+## 07 - Login System with SQLite
 - Implemented a simple authentication system.
 - Created login and logout functionality.
 - Used Flask sessions to maintain user state.
